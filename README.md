@@ -1,5 +1,5 @@
 
-# Mis recursos educativos
+# Mis recursos educativos2
 
 Este repositorio contiene mis proyectos digitales para clase.
 
